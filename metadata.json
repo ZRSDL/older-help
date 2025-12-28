@@ -1,0 +1,8 @@
+{
+  "name": "夕阳红老年助手",
+  "description": "专为老年人设计的智能生活助手，包含大字体界面、语音助手、健康监测及防诈骗提醒。",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
